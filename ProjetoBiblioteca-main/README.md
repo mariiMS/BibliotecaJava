@@ -13,7 +13,7 @@
 
 - [Java 17](https://www.oracle.com/br/java/technologies/downloads/)
 - Um editor para trabalhar com o código, como [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/) ou [Spring Tools 4](https://spring.io/tools/).
-- [Maven](https://maven.apache.org/) para gerenciar as dependências do projeto (dependendo do que você usou).
+- [Maven](https://maven.apache.org/) para gerenciar as dependências do projeto.
 
 ### ⚙️ Configuração
 
